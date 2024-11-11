@@ -1,0 +1,15 @@
+C:\Users\Martaze\Desktop\repos\PizzaAlgoNew\bin\Debug\net7.0\PizzaAlgoNew.exe
+C:\Users\Martaze\Desktop\repos\PizzaAlgoNew\bin\Debug\net7.0\PizzaAlgoNew.deps.json
+C:\Users\Martaze\Desktop\repos\PizzaAlgoNew\bin\Debug\net7.0\PizzaAlgoNew.runtimeconfig.json
+C:\Users\Martaze\Desktop\repos\PizzaAlgoNew\bin\Debug\net7.0\PizzaAlgoNew.dll
+C:\Users\Martaze\Desktop\repos\PizzaAlgoNew\bin\Debug\net7.0\PizzaAlgoNew.pdb
+C:\Users\Martaze\Desktop\repos\PizzaAlgoNew\obj\Debug\net7.0\PizzaAlgoNew.csproj.AssemblyReference.cache
+C:\Users\Martaze\Desktop\repos\PizzaAlgoNew\obj\Debug\net7.0\PizzaAlgoNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martaze\Desktop\repos\PizzaAlgoNew\obj\Debug\net7.0\PizzaAlgoNew.AssemblyInfoInputs.cache
+C:\Users\Martaze\Desktop\repos\PizzaAlgoNew\obj\Debug\net7.0\PizzaAlgoNew.AssemblyInfo.cs
+C:\Users\Martaze\Desktop\repos\PizzaAlgoNew\obj\Debug\net7.0\PizzaAlgoNew.csproj.CoreCompileInputs.cache
+C:\Users\Martaze\Desktop\repos\PizzaAlgoNew\obj\Debug\net7.0\PizzaAlgoNew.dll
+C:\Users\Martaze\Desktop\repos\PizzaAlgoNew\obj\Debug\net7.0\refint\PizzaAlgoNew.dll
+C:\Users\Martaze\Desktop\repos\PizzaAlgoNew\obj\Debug\net7.0\PizzaAlgoNew.pdb
+C:\Users\Martaze\Desktop\repos\PizzaAlgoNew\obj\Debug\net7.0\PizzaAlgoNew.genruntimeconfig.cache
+C:\Users\Martaze\Desktop\repos\PizzaAlgoNew\obj\Debug\net7.0\ref\PizzaAlgoNew.dll
